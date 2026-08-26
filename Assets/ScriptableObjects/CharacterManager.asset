@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a7a8f5911d7d746bf88c61db085c46, type: 3}
+  m_Name: CharacterManager
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterManager
+  _controllerManager: {fileID: 11400000, guid: 62c0a2adb3433b146830a5caff203b67, type: 2}
+  _characterTypes:
+  - _name: Knight
+    _prefab: {fileID: 2505623216453139378, guid: 0ea8c5ca8898eac449ab71f8b20622aa, type: 3}
+  - _name: Archer
+    _prefab: {fileID: 1835354999213522306, guid: a7e50d20ba4d3f0458cdc68f5464b716, type: 3}
+  - _name: Healer
+    _prefab: {fileID: 1641789312331395225, guid: 0b2d81f1f0a492e4fabdce178579eee4, type: 3}
+  _defaultCharacterName: Archer

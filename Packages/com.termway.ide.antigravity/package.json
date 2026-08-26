@@ -1,0 +1,15 @@
+{
+  "name": "com.termway.ide.antigravity",
+  "displayName": "Antigravity Editor",
+  "description": "Custom integration for Antigravity Editor (Fork of VS Code). Enables .csproj generation.",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "author": {
+    "name": "Termway",
+    "url": "https://github.com/TermWay"
+  },
+  "dependencies": {},
+  "type": "tool",
+  "license": "MIT",
+  "_fingerprint": "e5e981edf16a5c85f2c1a00209deee6626544bc5"
+}
