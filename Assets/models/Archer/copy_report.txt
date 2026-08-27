@@ -1,0 +1,2 @@
+Copied: archer_body_diffuse.png, archer_body_mask.png, archer_body_normal.png, archer_weapon_diffuse.png, archer_weapon_mask.png, archer_weapon_normal.png, archer_head_diffuse.png, archer_head_mask.png, archer_head_normal.png
+Total 9/9
