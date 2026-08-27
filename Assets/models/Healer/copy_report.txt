@@ -1,0 +1,2 @@
+Copied: healer_rigged.fbx
+No separate texture files - model uses flat material base colors only (no image textures).
